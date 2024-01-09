@@ -1,3 +1,5 @@
+#Packet Drop
+
 set ns [new Simulator]
 set nam [open out.nam w]
 
