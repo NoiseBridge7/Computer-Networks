@@ -1,3 +1,5 @@
+#Ping Implementation
+
 set ns [new Simulator]
 
 $ns color 1 blue
