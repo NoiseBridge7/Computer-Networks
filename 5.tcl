@@ -1,3 +1,5 @@
+# Star Topology
+
 set ns [new Simulator]
 
 $ns color 1 blue
